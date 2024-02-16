@@ -16,5 +16,5 @@ This Python script utilizes the PyPDF2 library to add password-based protection 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pdf-protection-python.git
-   cd pdf-protection-python
+   git clone https://github.com/vickypandey14/Password-based-Protection-of-PDF-File-in-python.git
+   cd Password-based-Protection-of-PDF-File-in-python
