@@ -4,10 +4,10 @@ Implement robust password-based protection for your PDF files effortlessly with 
 
 ## PDF Protection with Python
 
-### Overview
+### Project Overview
 This Python script utilizes the PyPDF2 library to add password-based protection to PDF files. By encrypting your PDFs with a secure password, you can enhance the privacy and security of sensitive documents.
 
-## Features
+## Project Features
 - **Password Encryption:** Adds a password to your PDF files, restricting unauthorized access.
 - **Simple Integration:** Easy-to-use script with minimal dependencies.
 - **Customization:** Tailor the script to your needs by modifying the input PDF path, output PDF path, and password.
